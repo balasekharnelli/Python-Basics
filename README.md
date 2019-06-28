@@ -1,10 +1,15 @@
-Why to learn Python:
+Why to learn Python?
+
 -> Python Language is expressive and Productive
+
 -> Python has great standard library
 
 Youtube, Instagram, Reddit and Dropbox are developed in Python
 
 Important Librabries:
+
+Science:
+ 
  astropy
  numpy
  biopython
@@ -14,14 +19,13 @@ Boto for AWS
 Micorsoft Azure SDK for Azure
 
 Data Analytics:
- Pandas
+
+Pandas
  matplitlib
  Bokeh
  Tensorflow
  scikit-learn
 
-It is opensource. Hugely popolur
-=============================
 Getting started: 
          We go through installing Python, look at some of the basic Python tools, and cover the core elements of the language and syntax.
 
@@ -48,5 +52,6 @@ Defining new types with classes:
 Files and Resource Management: 
          We look at how to work with files in Python, and we cover the tools Python has for Resource Management.
 
-
+Unit testing with the Python standard library: 
+        We show you how to use Python's unittest package to produce defect-free code that works as expected.
 
