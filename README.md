@@ -1,10 +1,13 @@
-Why to learn Python:
+Why to learn Python?
+
 -> Python Language is expressive and Productive
 -> Python has great standard library
 
 Youtube, Instagram, Reddit and Dropbox are developed in Python
 
 Important Librabries:
+
+Science:
  astropy
  numpy
  biopython
@@ -20,7 +23,7 @@ Data Analytics:
  Tensorflow
  scikit-learn
 
-It is opensource. Hugely popolur
+It is opensource. Hugely popular.
 
 
 
