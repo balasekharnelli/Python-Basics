@@ -19,7 +19,8 @@ Boto for AWS
 Micorsoft Azure SDK for Azure
 
 Data Analytics:
- Pandas
+
+Pandas
  matplitlib
  Bokeh
  Tensorflow
