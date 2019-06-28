@@ -30,3 +30,18 @@ from math import factorial as f
 c = f(n) / f(k) * f(n-k)
 print(c)
 
+#pi
+
+import math
+print(math.pi)
+
+
+from math import pi
+print(pi)
+
+#All the functions and constants can be imported using *
+from math import *
+
+#No module error
+import mathematics
+

@@ -67,3 +67,6 @@ Unit testing with the Python standard library:
 
         We show you how to use Python's unittest package to produce defect-free code that works as expected.
 
+
+#PEP 8 : Python Style Guide
+#PEP 20 : Zen of Python
